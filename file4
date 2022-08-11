@@ -1,3 +1,7 @@
 file4
 again
+<<<<<<< Updated upstream
 again 5
+=======
+again 4
+>>>>>>> Stashed changes
